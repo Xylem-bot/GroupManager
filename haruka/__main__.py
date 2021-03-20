@@ -22,16 +22,18 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello {}, my name is {}!
 
-I'm xylem group manager bot.
+I'm xylem group manager bot. 
 
-Xylem Learning is a complete entrance oriented learning platform for NEET/JEE aspirants. 
+⚡️Xylem Learning App is an exam preparation app, which assists you to prepare for the NEET UG,JEE Main entrance examination.⚡️
 
-Join Our Channel - @xylemlearningofficial.
+👥 Join Our Group for daily quiz and neet related queries - @xylemlearningofficial 👥
 
-This is our website [Xylem Website](https://prep.xylemlearning.com/learn/account/invite-signup?code=7K6BK&source=link), 
-you can sign up for free daily quiz and many more..
+🟢This is our website [Xylem Website](https://prep.xylemlearning.com/learn/account/invite-signup?code=7K6BK&source=link), 
+you can sign up for free daily quiz and many more..🟢
 
 Install our App [Xylem App](https://play.google.com/store/apps/details?id=com.owebso.svs.xylemlern&hl=en_IE)
+
+ For xylem accademic group to solve accademic related queries 📲 9072220123 ( xylem contact )
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 
